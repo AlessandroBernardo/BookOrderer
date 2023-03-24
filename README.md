@@ -1,6 +1,6 @@
 # BookOrderer
 
-O Projeto está em .NET 6 e usa XUnit. Para rodar, é preciso ter as ferramentas necessárias. Como Visual Studio 19 e as dependencias necessárias.
+O Projeto está em .NET 6 (Link para o que está em .NET Framework https://github.com/AlessandroBernardo/BooksOrderer) e usa XUnit. Para rodar, é preciso ter as ferramentas necessárias. Como Visual Studio 19 e as dependencias necessárias.
 Os testes podem ser executados independentes da solution estar em execução.
 
 Separei a solução em camadas simples de Presentation, Application, Domain e  Test.
